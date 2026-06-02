@@ -4,7 +4,7 @@
 # hello =input("learning python")
 # print(hello)
 # hello = int(input("enter a number:"))
-# print("your favorite number is :",hello)
+# print("your favorite number is :",hello) 
 
 
 
